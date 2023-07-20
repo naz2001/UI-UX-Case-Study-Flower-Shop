@@ -1,0 +1,2 @@
+i wanted to show the feature " make-it-urself" where the user can decide on the flowers, its numbers,its arrangement etc.
+I also saw that many of the app of this type are arranged chaotically. 

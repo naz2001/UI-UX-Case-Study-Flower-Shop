@@ -1,4 +1,8 @@
 # UI/UX Case Study: Flower Shop
+<p align="center">
+<img src="https://github.com/naz2001/UI-UX-Case-Study/assets/57052959/d42d0869-b4b7-41d1-bab5-d0b02acc275f">
+</p>
+
 
 This project was done as a part of the "Create High-Fidelity Designs and Prototypes in Figma" course in Coursera. The topic that I took was to Design an application for the purchase and delivery of flowers. The project design process had several phases:
 - Emphasize with users, defining problems and user goals.
@@ -15,6 +19,9 @@ This project was done as a part of the "Create High-Fidelity Designs and Prototy
 - [UX Design Process](#ux-design-process)
 - [User Flow](#user-flow)
 - [User Journey Map](#user-journey-map)
+- [Paper Wireframes](#paper-wireframes)
+- [Digital Wireframes and Prototypes](#digital-wireframes-and-prototypes)
+- [Takeaways & Next Steps](#takeaways-&-next-steps)
 
 
 ## Problem Statement
@@ -70,3 +77,39 @@ User flow creation is an indispensable part of the design process. It acts as a 
 </p>
 
 I carried out user testing involving a diverse group of participants to collect data on their actions, opinions, and overall perceptions. The results of this testing revealed that the app featured a clear and structured navigation system. However, some users suggested the inclusion of alternative filters beyond just price and color. Additionally, the "Make your own Bouquet" option appeared to be confusing for many users. Based on these discoveries, I was able to formulate specific recommendations for enhancing the app's user-friendliness. These recommendations included the addition of search filters and simplifying the checkout process. In essence, the usability study yielded valuable insights that will play a crucial role in enhancing the user experience within the flower shop app.
+
+## Paper Wireframes
+<p align="center">
+<img src="https://github.com/naz2001/UI-UX-Case-Study/assets/57052959/75c681d3-2a6b-400f-9baf-7112459a4896">
+</p>
+Taking the time to draft iterations of each screen of the app on paper ensured that the elements that made it to digital wireframes would be well-suited to address user pain points. The above wireframes show the home screen, cart, profile, a model of the selection menus, and sorting ready-made bouquets based on price and color.
+
+##  Digital Wireframes and Prototypes
+<p align="center">
+<img src="https://github.com/naz2001/UI-UX-Case-Study/assets/57052959/4c377306-e67d-4cd1-bd38-ab6e107a8d80">
+</p>
+Using the completed set of digital wireframes, I created a low-fidelity prototype. The primary user flow I connected was building and ordering a bouquet, so that the  prototype could be used in a usability study. 
+
+#### Usability study: Findings
+I conducted two rounds of usability studies. Findings from the first study helped guide the designs from wireframes to mockups. The second study used a high-fidelity prototype and revealed what aspects of the mockups needed refining. 
+#### Round 1 findings
+- Users want to order bouquets quickly
+- Users want more options to sort flower bouquets
+- Option to choose the time of delivery 
+
+#### Round 2 findings
+- The “Build your own” functionality is confusing 
+- Option to add fillers and greenery when building bouquets 
+- Option to save bouquets created by users and also to modify them 
+
+The final high-fidelity prototype presented cleaner user flows for selecting bouquets, building bouquets, and checkout. It also met user needs for an organized build-your-own bouquet option as well as more customization.
+<p align="center">
+<img src="https://github.com/naz2001/UI-UX-Case-Study/assets/57052959/c7028abf-3223-49ae-b64c-d019d55dd0ec">
+</p>
+
+## Takeaways & Next Steps
+
+- While designing the House of Flowers app, I learned that the first ideas for the app are only the beginning of the process. Usability studies and peer feedback influenced each iteration of the app’s designs.
+- Conduct another round of usability studies to validate whether the pain points users experienced have been effectively addressed.
+- Conduct more user research to determine any new areas of need.
+- In order to maintain the app’s relevance, it is important to have a plan for ongoing maintenance and updates. This will ensure that the app stays up-to-date and continues to meet the needs of its users.
